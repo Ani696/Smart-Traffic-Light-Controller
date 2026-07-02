@@ -2,7 +2,7 @@
 
 ## Intern Details
 - Name: Aniket Srivastava
-- Intern ID: YOUR_INTERN_ID
+- Intern ID: CITS3416
 - Duration: 4 Weeks
 
 ## Project Description
