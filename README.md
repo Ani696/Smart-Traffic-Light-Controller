@@ -19,6 +19,17 @@ This project simulates a two-road traffic light controller using Arduino Uno. Th
 - Arduino IDE
 - Wokwi Simulator
 
+## Project Output
+
+The simulation demonstrates a two-road traffic intersection.
+
+Road A:
+- Green → Yellow → Red
+
+Road B:
+- Red → Green → Yellow
+
+The sequence repeats automatically.
 ## Author
 Aniket Srivastava
 
