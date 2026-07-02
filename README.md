@@ -21,3 +21,7 @@ This project simulates a two-road traffic light controller using Arduino Uno. Th
 
 ## Author
 Aniket Srivastava
+
+## Wokwi Simulation
+
+https://wokwi.com/projects/468441563534412801
